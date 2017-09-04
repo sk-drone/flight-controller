@@ -1,0 +1,6 @@
+#ifndef H_DRONE_BALANCER
+#define H_DRONE_BALANCER
+
+#include "drone_esc.h"
+
+#endif H_DRONE_BALANCER
